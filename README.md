@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
-<h3 align="center">A passionate programer, web developer and Machine Learning aspirant from India</h3>
+<h3 align="center">A passionate programmer, web developer and Machine Learning aspirant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-gupta11&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-gupta11" /> </p>
 
